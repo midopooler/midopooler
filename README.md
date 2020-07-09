@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with OpenCV.
 - 💬 Ask me about Hackathons
 - 📫 How to reach me: https://pulkitmidha.com/
-- 😄 Pronouns: @midopooler
+- 😄 Pronouns: him/he
 - ⚡ Fun fact: I love playing video games, and developing as well. :p
 
