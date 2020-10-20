@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am midopooler👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pulkit-midha28)](https://www.linkedin.com/in/pulkit-midha28/)
 [![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/midopooler) 
