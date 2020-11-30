@@ -8,7 +8,7 @@
 **midopooler/midopooler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=midopooler.midopooler) -->
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=torvalds.torvalds)
 - 🔭 I’m currently working on Immersive Tech 
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open-Sourced Projects
