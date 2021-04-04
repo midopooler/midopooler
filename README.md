@@ -9,14 +9,8 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=midopooler.midopooler) -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=midopooler.midopooler)
-- 🔭 I’m currently working on Immersive Tech 
-- 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on Open-Sourced Projects
-- 🤔 I’m looking for help with OpenCV.
-- 💬 Ask me about Hackathons
-- 📫 How to reach me: https://pulkitmidha.com/
-- 😄 Pronouns: him/he
-- ⚡ Fun fact: I love playing video games, and developing as well. :p
+- Immersive Tech - Game Development - Unity3D - C# 
+- https://pulkitmidha.com/
 
 **Languages and Tools:**  
 
