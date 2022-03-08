@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pulkit-midha28)](https://www.linkedin.com/in/midopooler/)
 [![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/midopooler) 
-[![Medium Badge](https://img.shields.io/badge/-@midhapulkit-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@midhapulkit28)](https://medium.com/@midhapulkit28)
+[![Medium Badge](https://img.shields.io/badge/-@midopooler-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@midopooler)](https://medium.com/@midopooler)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:midhapulkit28@gmail.com)](mailto:midhapulkit28@gmail.com)
 <!--
 **midopooler/midopooler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
